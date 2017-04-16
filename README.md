@@ -1,5 +1,7 @@
 # Светофор на arduino
 
+Видео сборки и демонстрации https://www.youtube.com/watch?v=yeM0egoovSo
+
 ## Папки
 
 **Скетч** - прошивка для Ардуино
